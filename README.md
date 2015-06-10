@@ -1,4 +1,5 @@
-ChineseChess4Android
+Chinese Chess For Android
 ====================
 
-a android version of the Chinese Chess game, which is not very difficult to defeat
+This android source code are forked from https://github.com/zhijie/ChineseChess4Android for sudy purpose only  
+If you would like to use this code, please do not fogot to say thank to @zhijie who developed this application already.
